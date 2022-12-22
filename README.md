@@ -1,6 +1,6 @@
-# NestedRouting
+# Nested Routing
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.4.
+This project is just a small example of how to do nested routing using Angular JS and the RouterModule.
 
 ## Development server
 
