@@ -1,1 +1,24 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+body > * {
+  text-align: center;
+}
+
+h2 {
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+span {
+  padding: 3px 5px;
+  background-color: rgb(165, 164, 164);
+  color: white;
+  font-family: "Lucida Sans Typewriter", "Lucida Console", "monaco", "Bitstream Vera Sans Mono", "monospace";
+  border-radius: 5px;
+  font-size: small;
+}
